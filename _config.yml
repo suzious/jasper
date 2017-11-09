@@ -16,7 +16,7 @@ author: 'Casper McFadden'
 nickname: casper
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+url: 'http://suzious.github.io'
 image: 'assets/images/casper.png'
 
 short_url: 'suzious.github.io'
@@ -61,7 +61,7 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
+production_url:  https://suziouz.github.io
 source_url:      https://github.com/biomadeira/jasper/
 
 exclude:
